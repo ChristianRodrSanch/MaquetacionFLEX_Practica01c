@@ -1,0 +1,107 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+}
+
+/* Estilos generales */
+header, footer {
+  text-align: center;
+  
+  color: green;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+/* Contenedor principal */
+.contenedor {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 20px auto;
+  
+  padding: 20px;
+  
+
+  
+}
+
+
+picture{
+  border: 1px solid red;
+  padding: 2%;
+}
+
+picture img{
+  border-radius: 1em;
+  width: 90%;
+}
+.linea{
+  color: #006400;
+}
+/* Menú lateral */
+.menu {
+  width: 200px;
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 10px;
+  
+}
+
+.menu ul {
+  list-style: none;
+  
+  
+ 
+}
+
+.menu li {
+  cursor: pointer;
+  color: #006400;
+}
+
+.menu li:hover {
+  color: #228b22;
+}
+
+
+
+/* Tarjetas */
+.tarjeta {
+ flex:1.1 10%;
+ border-radius: 1em;
+}
+
+.tarjeta img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.contenedor2{
+  justify-content: flex-end;
+  display: flex;
+  
+}
+
+
+
+
+
+
