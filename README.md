@@ -5,7 +5,7 @@
   Este proyecto consta de una practica de uso de FLEX utilizando varias imagenes y elemento que usamos distribuyendo como piden en la practica.
 
 ## Desarrollo del Proyecto
-El desarrollo del proyecto se llevó a cabo utilizando HTML y CSS.
+El desarrollo del proyecto se llevó a cabo utilizando HTML y CSS. Uso especifico FLEX
 
 ## Despliegue
 - Página del proyecto en GitHub: [MaquetacionFLEX_Practica01c](https://github.com/ChristianRodrSanch/MaquetacionFLEX_Practica01c)
